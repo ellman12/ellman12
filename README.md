@@ -11,3 +11,10 @@ I try to automate repetitive tasks and streamline my workflow and make it as eff
 I was on my high school's FIRST Robotics Competition (FRC) team for 5 years as the lead (Java) programmer.<br>
 
 You can reach me at ellduc4@gmail.com or Elliott.DuCharme@trojans.dsu.edu.
+
+Noteworthy repos:
+https://github.com/ellman12/AutoHotkey
+https://github.com/ellman12/Folder-Copy
+https://github.com/ellman12/Password-Generator-and-Guesser
+https://github.com/ellman12/Photos-Storage-Server
+https://github.com/ellman12/TI-84-Plus-CE
