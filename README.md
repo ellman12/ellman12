@@ -13,8 +13,8 @@ I was on my high school's FIRST Robotics Competition (FRC) team for 5 years as t
 You can reach me at ellduc4@gmail.com or Elliott.DuCharme@trojans.dsu.edu.
 
 Noteworthy repos:
-https://github.com/ellman12/AutoHotkey
-https://github.com/ellman12/Folder-Copy
-https://github.com/ellman12/Password-Generator-and-Guesser
-https://github.com/ellman12/Photos-Storage-Server
-https://github.com/ellman12/TI-84-Plus-CE
+https://github.com/ellman12/AutoHotkey<br>
+https://github.com/ellman12/Folder-Copy<br>
+https://github.com/ellman12/Password-Generator-and-Guesser<br>
+https://github.com/ellman12/Photos-Storage-Server<br>
+https://github.com/ellman12/TI-84-Plus-CE<br>
