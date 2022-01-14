@@ -10,10 +10,3 @@ I try to automate repetitive tasks and streamline my workflow and make it as eff
 I was on my high school's FIRST Robotics Competition (FRC) team for 5 years as the lead (Java) programmer.<br>
 
 You can reach me at ellduc4@gmail.com or Elliott.DuCharme@trojans.dsu.edu.
-
-Noteworthy repos:<br>
-https://github.com/ellman12/AutoHotkey<br>
-https://github.com/ellman12/Graphical-Backup-Program<br>
-https://github.com/ellman12/Password-Generator-and-Guesser<br>
-https://github.com/ellman12/Photos-Storage-Server<br>
-https://github.com/ellman12/TI-84-Plus-CE<br>
