@@ -8,4 +8,4 @@ C# is without a doubt my favorite language ever.<br>
 I was on my high school's FIRST Robotics Competition (FRC) team for 5 years as the lead (Java) programmer.<br>
 Actively seeking internships.<br>
 You can reach me at ellduc4@gmail.com or Elliott.DuCharme@trojans.dsu.edu.<br>
-My resume can be found [here](https://github.com/ellman12/ellman12/blob/main/Elliott%20DuCharme%20Resume%201-18-2022.docx)
+My resume can be found [here](https://github.com/ellman12/ellman12/)
