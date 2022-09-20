@@ -8,7 +8,7 @@ I was on my high school's FIRST Robotics Competition (FRC) team for 5 years as t
 
 I love and have always had a passion for computers and programming, and I love working on side projects, especially projects that save time and make life easier. I try to automate repetitive tasks and streamline my workflow and make it as efficient as possible. AutoHotkey and my Elgato Stream Deck XL both really help with this.<br>
 
-In my spare time I work on side projects such as [Photos Storage Server](https://github.com/ellman12/Photos-Storage-Server), and my [AutoHotkey scripts](https://github.com/ellman12/AutoHotkey-V2).<br>
+In my spare time I work on side projects such as [Photos Storage Server](https://github.com/ellman12/Photos-Storage-Server), and my [AutoHotkey scripts](https://github.com/ellman12/AutoHotkey-V2). I am currently working on prototypes for a 3D action-adventure game in Unity.
 
 I have knowledge of and experience with C, C++, C#, Python, Java, AutoHotkey, SQL, HTML, CSS, x86 and x64 Assembly, JavaScript, and PHP.<br>
 C# is without a doubt my favorite language ever.<br>
