@@ -8,10 +8,10 @@ I was on my high school's FIRST Robotics Competition (FRC) team for 5 years as t
 
 I love and have always had a passion for computers and programming, and I love working on side projects, especially projects that save time and make life easier. I try to automate repetitive tasks and streamline my workflow and make it as efficient as possible. AutoHotkey and my Elgato Stream Deck XL both really help with this.<br>
 
-In my spare time I work on side projects such as [Photos Storage Server](https://github.com/ellman12/Photos-Storage-Server), and my [AutoHotkey scripts](https://github.com/ellman12/AutoHotkey-V2). I am currently working on prototypes for a 3D action-adventure game in Unity.
+In my spare time I work on side projects such as my photo and video manager, [Photos Storage Server](https://github.com/ellman12/Photos-Storage-Server), and my [AutoHotkey scripts](https://github.com/ellman12/AutoHotkey-V2). These two projects might be my magnum opus. I am currently working on prototypes for a 3D action-adventure game in Unity.
 
+C# is without a doubt my favorite language ever. I have many years of experience with it.<br>
 I have knowledge of and experience with C, C++, C#, Python, Java, AutoHotkey, SQL, HTML, CSS, x86 and x64 Assembly, JavaScript, and PHP.<br>
-C# is without a doubt my favorite language ever.<br>
 
 Actively seeking full time software developer/engineer roles.<br>
 You can reach me at ellduc4@gmail.com or Elliott.DuCharme@trojans.dsu.edu.<br>
