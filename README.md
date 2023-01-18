@@ -13,6 +13,6 @@ In my spare time I work on side projects such as [Photos Storage Server](https:/
 I have knowledge of and experience with C, C++, C#, Python, Java, AutoHotkey, SQL, HTML, CSS, x86 and x64 Assembly, JavaScript, and PHP.<br>
 C# is without a doubt my favorite language ever.<br>
 
-Actively seeking internships.<br>
+Actively seeking full time software developer/engineer roles.<br>
 You can reach me at ellduc4@gmail.com or Elliott.DuCharme@trojans.dsu.edu.<br>
-My resume can be found [here](https://github.com/ellman12/ellman12/)
+My resume and transcript can be found [here](https://github.com/ellman12/ellman12/)
