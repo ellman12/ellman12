@@ -15,5 +15,5 @@ I have knowledge of and experience with C, C++, C#, Python, Java, AutoHotkey, SQ
 
 Actively seeking full time software developer/engineer roles.<br>
 You can reach me at ellduc4@gmail.com or Elliott.DuCharme@trojans.dsu.edu.<br>
-My resume and transcript can be found [here](https://github.com/ellman12/ellman12/).
+My resume and transcript can be found [here](https://github.com/ellman12/ellman12/).<br>
 My Portfolio can be found [here](https://ellman12.github.io/Portfolio/).
