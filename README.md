@@ -1,19 +1,18 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellman12&theme=react&langs_count=7&layout=compact)](https://github.com/ellman12/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellman12&theme=react&langs_count=8&layout=compact)](https://github.com/ellman12/github-readme-stats)
 ![Elliott's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellman12&count_private=true&show_icons=true&theme=react)
 
-My name is Elliott DuCharme and I am a student at Dakota State University, working towards my Bachelor's in Computer Science, and I am expected to graduate in May 2023.<br>
-I was on my high school's FIRST Robotics Competition (FRC) team for 5 years as the lead (Java) programmer.<br>
+My name is Elliott DuCharme. I recently graduated from Dakota State University with my Bachelor's in Computer Science. Currently, I'm working at KBR in Sioux Falls, SD as a software engineer.
 
-I love and have always had a passion for computers and programming, and I love working on side projects, especially projects that save time and make life easier. I try to automate repetitive tasks and streamline my workflow and make it as efficient as possible. AutoHotkey and my Elgato Stream Deck XL both really help with this.<br>
+I was on my high school's FIRST Robotics Competition (FRC) team for five years, where I discovered my love of programming and problem solving. In my last three years, I took on the role of lead Java programmer and also mentored the younger team members.
 
-In my spare time I work on side projects such as my photo and video manager, [Photos Storage Server](https://github.com/ellman12/Photos-Storage-Server), and my [AutoHotkey scripts](https://github.com/ellman12/AutoHotkey-V2). These two projects might be my magnum opus. I am currently working on prototypes for a 3D action-adventure game in Unity.
+During my last two years of high school, I stumbled upon AutoHotkey and immediately developed a deep passion for efficiency, optimization, and automation in both computers and everyday life. Alongside that, I have a strong passion for organization, especially after the end of Google Photos' unlimited tier, which sparked my fascination with photo and video metadata and organization, and which ultimately led to me creating MemoryMosaic.
 
-C# is without a doubt my favorite language ever. I have many years of experience with it and several projects made in it.<br>
-I have knowledge of and experience with C, C++, C#, Python, Java, AutoHotkey, SQL, HTML, CSS, Assembly, JavaScript, and PHP.<br>
+During my spare time, I work on side projects like [MemoryMosaic](https://github.com/ellman12/MemoryMosaic), my photo and video manager, as well as my [AutoHotkey scripts](https://github.com/ellman12/AutoHotkey-V2). These two projects might be my magnum opus. I have also recently started working with Unity.
 
-Actively seeking full time software developer/engineer roles.<br>
-You can reach me at ellduc4@gmail.com or Elliott.DuCharme@trojans.dsu.edu.<br>
+I have experience with a variety of programming languages, including C, C++, C# (easily my favorite), Unity, Python, Java, AutoHotkey, SQL, HTML, CSS, Assembly, JavaScript, and PHP.
+
+You can reach me at ellduc4@gmail.com.<br>
 My resume and transcript can be found [here](https://github.com/ellman12/ellman12/).<br>
 My Portfolio can be found [here](https://ellman12.github.io/Portfolio/).
