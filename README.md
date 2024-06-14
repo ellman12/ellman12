@@ -10,7 +10,7 @@
 
 My name is Elliott DuCharme. I graduated from Dakota State University with my B.S. in Computer Science. Currently, I'm working at KBR as a software engineer.
 
-In high school, FRC and AutoHotkey took over my life and made me fall in love with programming and automation. In college, C# and Unity did the same, leading me to discover my love for game design. Lately, I've been exploring Godot, and _loving_ it. Continuous learning is part of my core philosophy, so I'm always on the lookout for new technologies to try!
+In middle school, Lego Mindstorms took over my life and ignited my love for programming and robotics. In high school, Java and AutoHotkey further developed this, and made me passionate about efficiency and automation. In college, I fell in love with C#, and Unity led me to discover my love for game design. Lately, I've been exploring Godot, and _loving_ it. Continuous learning is part of my core philosophy, so I'm always on the lookout for new technologies to try!
 
 I have experience with a wide variety of programming languages and frameworks:<br>
-C#, TypeScript, React, Next.js, SQL, Unity, Godot, C, C++, Java, AutoHotkey, and Python.
+C#, TypeScript, React, Next.js, SQL, Unity, Godot, Python, Java, C, C++, and AutoHotkey.
