@@ -14,7 +14,7 @@ Hi there 👋
 * Bachelor's in computer science from Dakota State University.
 * Software Engineer at KBR.
 * I was in FRC for five years and the lead programmer for three years.
-* I love working with databases.
+* I love automation, databases, and robotics.
 * Addicted to Vim.
 * I play too much Monster Hunter and Factorio.
 * I'm unnaturally good at finding the perfect GIF for everything.
