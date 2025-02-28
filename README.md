@@ -7,7 +7,7 @@ Hi there 👋
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ellduc4@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elliott-ducharme-aaa491212/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-5d20ba?style=for-the-badge&logo=blazor&logoColor=white)](https://ellman12.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1976d2?style=for-the-badge&logo=react&logoColor=white)](https://ellman12.github.io/Portfolio/)
 [![Resume](https://img.shields.io/badge/Resume-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/ellman12/ellman12/blob/main/Elliott%20DuCharme%20Resume.pdf)
 
 ## About Me
