@@ -8,7 +8,8 @@ Hi there 👋
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ellduc4@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elliott-ducharme-aaa491212/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1976d2?style=for-the-badge&logo=react&logoColor=white)](https://ellman12.github.io/Portfolio/)
-[![Resume](https://img.shields.io/badge/Resume-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/ellman12/ellman12/blob/main/Elliott%20DuCharme%20Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-1976d2?style=for-the-badge&logo=react&logoColor=white)](https://ellman12.github.io/Resume/)
+[![Resume (PDF)](https://img.shields.io/badge/Resume%20%28PDF%29-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/ellman12/ellman12/blob/main/Elliott%20DuCharme%20Resume.pdf)
 
 ## About Me
 * Bachelor's in computer science from Dakota State University.
