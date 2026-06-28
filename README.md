@@ -20,17 +20,17 @@ I'm a software engineer passionate about building scalable web apps, automating 
 * I'm unnaturally good at finding the perfect GIF for everything.
 
 ## Languages
-* C#
 * TypeScript
+* C#
 * SQL
 * Java
-* C/C++
 * Python
+* C/C++
 
 ## Technologies
 * React
 * .NET
+* Vite
 * Next.js
-* Node.js
-* Tailwind
+* Vitest
 * Godot
